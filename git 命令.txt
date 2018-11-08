@@ -1,0 +1,6 @@
+git init
+ssh-keygen -t rsa -C "your_email@youremail.com"
+$ ssh -T git@github.com
+
+
+https://github.com/bigclaws/python.git
